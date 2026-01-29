@@ -162,3 +162,12 @@ The framework is intentionally structured with **prebuilt processing capacity** 
 Unused rows represent **daily batch headroom**, consistent with how operational control files are maintained in practice.
 
 Excel remains the **audit-friendly control layer**, while Power BI provides **management insight without altering core logic**.
+
+
+## Screenshots
+
+**Power BI – Exception Monitoring Dashboard**  
+![Power BI Exception Monitoring](screenshots/powerbi_exception_monitoring.png)
+
+**Excel – Cash Reconciliation Control Logic**  
+![Excel Cash Reconciliation](screenshots/excel_cash_reconciliation.png)
